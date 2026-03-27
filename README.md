@@ -9,7 +9,7 @@ Aviso del limite del presupuesto
 
 Rol de cada persona:
 Persona 1 : Julian Torres 
-Crea la lista  y agrega cada producto que valla comprar y al terminar escriba fin 
+Crea la lista  y agrega cada producto que vaya comprar y al terminar escriba fin 
 
 Persona 2: Andrea Moreno 
 Debe contar y verificar que se deba calcular cuantos productos hay y si no estan repetidos
