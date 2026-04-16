@@ -1,23 +1,13 @@
-# lista-de-compras-1114
-Hacer un programa que permita agregar articulos a una lista de compras.
-la persona pone  un valor limite (400 mil pesos) en el que se resta cuando se pone los productos.
+   # lista-de-compras-1114 
+El sistema consiste en un programa que permite a los usuarios crear y gestionar una lista de compras.
+El usuario establece un presupuesto limite (ej:400.000 cop),el cual se va reduciendo automáticamente 
+a medida que se agregan productos.
+Objectivos: 
+Facilitar la organización de compras mediante:
+.Control del presupuesto
+.Organización de productos 
+.Evita duplicados
+.Clasificación eficiente 
 
-Servicios:
-Recordatorio de la compra
-Datos organizados 
-Aviso del limite del presupuesto
-
-Rol de cada persona:
-Persona 1 : Julian Torres 
-Crea la lista  y agrega cada producto que vaya comprar y al terminar escriba fin 
-
-Persona 2: Andrea Moreno 
-Debe contar y verificar que se deba calcular cuantos productos hay y si no estan repetidos
-
-Persona 3: Zury Carrillo
-Debe mostrar una lista organizada con todos los productos en orden alfabeticos
-
-Persona 4 : Sara Montaño 
-Debe agrupar los productos por categorias ej (frutas,lacteos,verduras)
-
-
+Servicios: 
+Recordatorio de la compra Datos organizados Aviso del limite del presupuesto
