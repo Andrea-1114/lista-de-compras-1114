@@ -33,11 +33,11 @@ Facilitar la organizacion de compra mediante:
 - Organizacion automaticas de datos
 - Aviso de limite del presupuesto
 
-5 ROLES
-1 julian torres: Crear la lista, agregar productos y finalizar el proceso.
-2 Andrea Moreno: Contar productos, verificar duplicados y validar calculos.
-3 Zury carrillo: organizar la lista en orde alfabetico y mostrar lista final estructurada.
-4 Sara Montaño: Clasificar productos por categorías.
+5. ROLES
+1- Julian Torres:  Crear la lista, agregar productos y finalizar el proceso.
+2- Andrea Moreno: Contar productos, verificar duplicados y validar cálculos.
+3- Zury Carrillo: organizar la lista en orden alfabético y mostrar lista final estructurada.
+4- Sara Montaño: Clasificar productos por categorías.
 
 6. REQUISITOS FUNCIONALES
 - El sistema debe permitir ingresar productos y precios
@@ -51,10 +51,7 @@ Facilitar la organizacion de compra mediante:
 - Respuesta rápida al ingresar datos
 - Claridad en la visualización de resultados
 
-8. CRITERIO DE EXITO 
+8. CRITERIO DE EXITO
 - El usuario puede completar una lista sin errores
 - El presupuesto se calcula correctamente
 - La lista final está organizada y sin duplicados
-
-
-
